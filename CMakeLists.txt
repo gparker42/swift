@@ -1,3 +1,4 @@
+foo
 cmake_minimum_required(VERSION 3.4.3)
 
 # Add path for custom CMake modules.
